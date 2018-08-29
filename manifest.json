@@ -1,0 +1,7 @@
+{
+  "name": "arvind-website",
+  "short_name": "arvind-website",
+  "description": "Portfolio website of Arvind. Also to refresh his skills on Web Development.",
+  "start_url": "/",
+  "display": "standalone"
+}
